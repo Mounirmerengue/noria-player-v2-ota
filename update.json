@@ -1,17 +1,17 @@
 {
-  "version": "2.0.3",
-  "build": 18,
-  "apkUrl": "https://github.com/Mounirmerengue/noria-player-v2-ota/releases/download/v2.0.3-build18/noria-v2.0.3-build18-universal.apk",
+  "version": "2.0.2",
+  "build": 17,
+  "apkUrl": "https://github.com/Mounirmerengue/noria-player-v2-ota/releases/download/v2.0.2-build17/noria-v2.0.2-build17-universal.apk",
   "apkUrls": {
-    "arm64-v8a": "https://github.com/Mounirmerengue/noria-player-v2-ota/releases/download/v2.0.3-build18/noria-v2.0.3-build18-arm64-v8a.apk",
-    "armeabi-v7a": "https://github.com/Mounirmerengue/noria-player-v2-ota/releases/download/v2.0.3-build18/noria-v2.0.3-build18-armeabi-v7a.apk",
-    "x86_64": "https://github.com/Mounirmerengue/noria-player-v2-ota/releases/download/v2.0.3-build18/noria-v2.0.3-build18-x86_64.apk"
+    "arm64-v8a": "https://github.com/Mounirmerengue/noria-player-v2-ota/releases/download/v2.0.2-build17/noria-v2.0.2-build17-arm64-v8a.apk",
+    "armeabi-v7a": "https://github.com/Mounirmerengue/noria-player-v2-ota/releases/download/v2.0.2-build17/noria-v2.0.2-build17-armeabi-v7a.apk",
+    "x86_64": "https://github.com/Mounirmerengue/noria-player-v2-ota/releases/download/v2.0.2-build17/noria-v2.0.2-build17-x86_64.apk"
   },
   "apkBuilds": {
-    "arm64-v8a": 2018,
-    "armeabi-v7a": 1018,
-    "x86_64": 4018
+    "arm64-v8a": 2017,
+    "armeabi-v7a": 1017,
+    "x86_64": 4017
   },
-  "changelog": "• Application plus légère et installation facilitée\n• Navigation à la télécommande améliorée\n• Nouvelle notation Films et Séries\n• Recommandations plus pertinentes et sans doublons\n• Interface harmonisée et corrections de stabilité",
+  "changelog": "• Navigation à la télécommande améliorée\n• Recommandations plus stables\n• Passage à l’épisode suivant amélioré\n• Nouvel affichage Sports par sport et par ligue\n• Corrections de stabilité et d’affichage",
   "mandatory": false
 }
