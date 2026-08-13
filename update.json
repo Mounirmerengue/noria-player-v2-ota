@@ -1,18 +1,18 @@
 {
-  "versionName": "2.0.8",
-  "versionCode": 49,
-  "apkUrl": "https://github.com/Mounirmerengue/noria-player-v2-ota/releases/download/v2.0.8/noria-v2.0.8-universal.apk",
+  "versionName": "2.0.9",
+  "versionCode": 50,
+  "apkUrl": "https://github.com/Mounirmerengue/noria-player-v2-ota/releases/download/v2.0.9/noria-v2.0.9-universal.apk",
   "apkUrls": {
-    "universal": "https://github.com/Mounirmerengue/noria-player-v2-ota/releases/download/v2.0.8/noria-v2.0.8-universal.apk",
-    "armeabi-v7a": "https://github.com/Mounirmerengue/noria-player-v2-ota/releases/download/v2.0.8/noria-v2.0.8-armeabi-v7a.apk",
-    "arm64-v8a": "https://github.com/Mounirmerengue/noria-player-v2-ota/releases/download/v2.0.8/noria-v2.0.8-arm64-v8a.apk",
-    "x86_64": "https://github.com/Mounirmerengue/noria-player-v2-ota/releases/download/v2.0.8/noria-v2.0.8-x86_64.apk"
+    "universal": "https://github.com/Mounirmerengue/noria-player-v2-ota/releases/download/v2.0.9/noria-v2.0.9-universal.apk",
+    "armeabi-v7a": "https://github.com/Mounirmerengue/noria-player-v2-ota/releases/download/v2.0.9/noria-v2.0.9-armeabi-v7a.apk",
+    "arm64-v8a": "https://github.com/Mounirmerengue/noria-player-v2-ota/releases/download/v2.0.9/noria-v2.0.9-arm64-v8a.apk",
+    "x86_64": "https://github.com/Mounirmerengue/noria-player-v2-ota/releases/download/v2.0.9/noria-v2.0.9-x86_64.apk"
   },
   "apkBuilds": {
-    "universal": 49,
-    "armeabi-v7a": 1049,
-    "arm64-v8a": 2049,
-    "x86_64": 4049
+    "universal": 50,
+    "armeabi-v7a": 1050,
+    "arm64-v8a": 2050,
+    "x86_64": 4050
   },
   "changelog": "Améliorations d'interface et corrections de navigation."
 }
