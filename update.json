@@ -1,18 +1,18 @@
 {
-  "versionName": "2.1.1",
-  "versionCode": 83,
-  "apkUrl": "https://github.com/Mounirmerengue/noria-player-v2-ota/releases/download/v2.1.1/noria-v2.1.1-universal.apk",
+  "versionName": "2.1.2",
+  "versionCode": 3124,
+  "apkUrl": "https://github.com/Mounirmerengue/noria-player-v2-ota/releases/download/v2.1.2/noria-v2.1.2-universal.apk",
   "apkUrls": {
-    "universal": "https://github.com/Mounirmerengue/noria-player-v2-ota/releases/download/v2.1.1/noria-v2.1.1-universal.apk",
-    "armeabi-v7a": "https://github.com/Mounirmerengue/noria-player-v2-ota/releases/download/v2.1.1/noria-v2.1.1-armeabi-v7a.apk",
-    "arm64-v8a": "https://github.com/Mounirmerengue/noria-player-v2-ota/releases/download/v2.1.1/noria-v2.1.1-arm64-v8a.apk",
-    "x86_64": "https://github.com/Mounirmerengue/noria-player-v2-ota/releases/download/v2.1.1/noria-v2.1.1-x86_64.apk"
+    "universal": "https://github.com/Mounirmerengue/noria-player-v2-ota/releases/download/v2.1.2/noria-v2.1.2-universal.apk",
+    "armeabi-v7a": "https://github.com/Mounirmerengue/noria-player-v2-ota/releases/download/v2.1.2/noria-v2.1.2-armeabi-v7a.apk",
+    "arm64-v8a": "https://github.com/Mounirmerengue/noria-player-v2-ota/releases/download/v2.1.2/noria-v2.1.2-arm64-v8a.apk",
+    "x86_64": "https://github.com/Mounirmerengue/noria-player-v2-ota/releases/download/v2.1.2/noria-v2.1.2-x86_64.apk"
   },
   "apkBuilds": {
-    "universal": 83,
-    "armeabi-v7a": 1083,
-    "arm64-v8a": 2083,
-    "x86_64": 4083
+    "universal": 3124,
+    "armeabi-v7a": 4124,
+    "arm64-v8a": 5124,
+    "x86_64": 7124
   },
-  "changelog": "Navigation TV plus fluide, recommandations enrichies et réglages plus lisibles."
+  "changelog": "• Section Sports enrichie : visuels des championnats et classements des courses\n• Navigation à la télécommande corrigée dans Films et Séries\n• Meilleur alignement des cartes et des marges\n• Corrections de stabilité"
 }
