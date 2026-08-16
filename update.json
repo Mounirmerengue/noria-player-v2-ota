@@ -1,18 +1,18 @@
 {
   "versionName": "2.1.2",
-  "versionCode": 3124,
-  "apkUrl": "https://github.com/Mounirmerengue/noria-player-v2-ota/releases/download/v2.1.2/noria-v2.1.2-universal.apk",
+  "versionCode": 3125,
+  "apkUrl": "https://github.com/Mounirmerengue/noria-player-v2-ota/releases/download/v2.1.2b/noria-v2.1.2b-universal.apk",
   "apkUrls": {
-    "universal": "https://github.com/Mounirmerengue/noria-player-v2-ota/releases/download/v2.1.2/noria-v2.1.2-universal.apk",
-    "armeabi-v7a": "https://github.com/Mounirmerengue/noria-player-v2-ota/releases/download/v2.1.2/noria-v2.1.2-armeabi-v7a.apk",
-    "arm64-v8a": "https://github.com/Mounirmerengue/noria-player-v2-ota/releases/download/v2.1.2/noria-v2.1.2-arm64-v8a.apk",
-    "x86_64": "https://github.com/Mounirmerengue/noria-player-v2-ota/releases/download/v2.1.2/noria-v2.1.2-x86_64.apk"
+    "universal": "https://github.com/Mounirmerengue/noria-player-v2-ota/releases/download/v2.1.2b/noria-v2.1.2b-universal.apk",
+    "armeabi-v7a": "https://github.com/Mounirmerengue/noria-player-v2-ota/releases/download/v2.1.2b/noria-v2.1.2b-armeabi-v7a.apk",
+    "arm64-v8a": "https://github.com/Mounirmerengue/noria-player-v2-ota/releases/download/v2.1.2b/noria-v2.1.2b-arm64-v8a.apk",
+    "x86_64": "https://github.com/Mounirmerengue/noria-player-v2-ota/releases/download/v2.1.2b/noria-v2.1.2b-x86_64.apk"
   },
   "apkBuilds": {
-    "universal": 3124,
-    "armeabi-v7a": 4124,
-    "arm64-v8a": 5124,
-    "x86_64": 7124
+    "universal": 3125,
+    "armeabi-v7a": 4125,
+    "arm64-v8a": 5125,
+    "x86_64": 7125
   },
-  "changelog": "• Section Sports enrichie : visuels des championnats et classements des courses\n• Navigation à la télécommande corrigée dans Films et Séries\n• Meilleur alignement des cartes et des marges\n• Corrections de stabilité"
+  "changelog": "• Videos telechargees : avance rapide et duree corrigees\n• Vos telechargements sont maintenant dans Videos / Noria, visibles et supprimables\n• Espace occupe affiche, avec suppression en un geste\n• Navigation a la telecommande plus fluide\n• Corrections d'affichage dans Replay et Sports"
 }
